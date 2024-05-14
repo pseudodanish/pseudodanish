@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pseudodanish
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Building New Softwares
-- 📫 How to reach me @pseudodanish
 - 😄 Pronouns: Hello/World
 - ⚡ Fun fact: Depression? Write A Line of Code 
 
