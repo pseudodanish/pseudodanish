@@ -1,5 +1,5 @@
 <div align="center">
-![hw](https://github.com/pseudodanish/pseudodanish/assets/144316616/70e2b347-b5f8-4f19-ae2e-119ce4284ff5)
+<img src="![hw](https://github.com/pseudodanish/pseudodanish/assets/144316616/70e2b347-b5f8-4f19-ae2e-119ce4284ff5)">
 </div>
 
 
