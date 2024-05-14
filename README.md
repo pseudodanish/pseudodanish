@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Danish At Backend👋</h1>
-<h2 align="center">Just A Developer At Work</h2>
+<h5 align="center">Just A Developer At Work</h5>
 ###
 
 <br clear="both">
