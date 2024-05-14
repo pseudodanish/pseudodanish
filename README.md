@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Danish At Backend👋</h1>
-
+<h2 align="center">Just A Developer At Work</h2>
 ###
 
 <br clear="both">
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 I’m working as Beginner<br>- 📚 I'm currently learning javaScript And React.js<br>- ⚡ In my free time I Just Code and Game</p>
 
 ###
 
