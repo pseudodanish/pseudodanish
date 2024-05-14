@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Beginner<br>- 📚 I'm currently learning javaScript And React.js<br>- ⚡ In my free time I Just Code and Game</p>
+<p align="left">- 🔭 I’m working as a Front End Developer<br>- 📚 I'm currently learning JavaScript And React.js<br>- ⚡ In my free time I Just Code and Game</p>
 
 ###
 
